@@ -2,6 +2,8 @@
 
 Young Scientist Journal, Vol 13, May 2023: http://youngscientistjournal.org/youngscientistjournal/article/developing-cheaper-and-safer-non-weather-based-ai-models-for-microgrid-demand-and-supply-forecasting-in-rural-areas
 
+See INSTRUCTIONS.md
+
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
 
 **Mentor:** Mauricio Hernandez
