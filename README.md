@@ -1,4 +1,4 @@
-# Developing cheaper and safer non-weather-based AI models for microgrid demand and supply forecasting in rural areas
+# Developing cheaper and safer non-weather-based AI models for microgrid demand and supply forecasting in rural areas 
 
 
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
